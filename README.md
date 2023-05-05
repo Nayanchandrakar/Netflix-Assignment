@@ -9,3 +9,41 @@ You can view a live demo of the app [here](https://netflix999.netlify.app/).
 ### Installation
 
 1. Clone the repository:
+```
+https://github.com/Nayanchandrakar/Netflix-Assignment.git
+```
+
+2. Install dependencies:
+```
+npm install
+```
+
+3. Start the development server:
+```
+npm run dev
+```
+
+### Features
+
+- Browse through a list of movies and TV shows
+- Watch trailers of your favorite titles
+- Responsive design that works on all devices
+
+### Technologies Used
+
+- ReactJS
+- ViteJS
+- TailwindCSS
+
+### Credits
+
+- This project was developed as part of an assignment for a coding bootcamp.
+- The design and layout of the app was inspired by the Netflix website.
+
+### License
+
+This project is licensed under the MIT License. Feel free to use and modify the code as per your requirements.
+
+### Contact
+
+If you have any questions or feedback, feel free to contact me at [nayangit000@gmail.com]. Thank you for checking out my project!

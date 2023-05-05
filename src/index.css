@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+li {
+    list-style: none;
+}
+
+body {
+    background-color: #050817;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-family: Inter, Helvetica, sans-serif;
+}
+
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+
+.grid_cols70 {
+    grid-template-columns: 30% 70%;
+}

@@ -6,6 +6,8 @@ This is a Netflix clone built using ReactJS, ViteJS, and TailwindCSS. The app al
 
 You can view a live demo of the app [here](https://netflix999.netlify.app/).
 
+![Web capture_5-5-2023_132426_netflix999 netlify app](https://user-images.githubusercontent.com/100008163/236456949-c2c20ac4-0c13-43b8-9244-5c75e77cf0b8.jpeg)
+
 ### Installation
 
 1. Clone the repository:
